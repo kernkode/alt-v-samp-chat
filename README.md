@@ -1,4 +1,4 @@
-# web
+# samp-like chat for alt:v
 
 ## Project setup
 ```
