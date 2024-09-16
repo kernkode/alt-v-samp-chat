@@ -1,5 +1,7 @@
 # samp-like chat for alt:v
 
+![photo](https://github.com/chadmode/alt-v-samp-chat/blob/main/imgs/img.PNG)
+
 ## Project setup
 ```
 npm install
